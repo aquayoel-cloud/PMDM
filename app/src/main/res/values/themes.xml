@@ -6,4 +6,9 @@
     </style>
 
     <style name="Theme.Recursosyoel" parent="Base.Theme.Recursosyoel" />
+    <style name="Boton" parent="Widget.Material3.Button">
+        <item name="android:textSize">20dp</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textStyle">bold</item>
+    </style>
 </resources>
